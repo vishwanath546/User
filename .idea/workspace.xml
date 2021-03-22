@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a394d7d4-33d6-4063-82fa-500905b841eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hSTBQL8pUXsUEVuzrarXWIifjC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a394d7d4-33d6-4063-82fa-500905b841eb" name="Default Changelist" comment="" />
+      <created>1600003376937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600003376937</updated>
+      <workItem from="1600003385429" duration="1329000" />
+      <workItem from="1600236135581" duration="37000" />
+      <workItem from="1601009620525" duration="781000" />
+      <workItem from="1601011413845" duration="937000" />
+      <workItem from="1601030971371" duration="1603000" />
+      <workItem from="1601042563735" duration="2624000" />
+      <workItem from="1601095959699" duration="1183000" />
+      <workItem from="1601269898229" duration="1192000" />
+      <workItem from="1601283546942" duration="16534000" />
+      <workItem from="1601301930164" duration="2586000" />
+      <workItem from="1601348662537" duration="3348000" />
+      <workItem from="1601371825400" duration="596000" />
+      <workItem from="1601448654148" duration="2490000" />
+      <workItem from="1601460360727" duration="662000" />
+      <workItem from="1601533370640" duration="5857000" />
+      <workItem from="1616389698174" duration="15131000" />
+      <workItem from="1616408449609" duration="10126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616391835503">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728@0.0.1024.728" timestamp="1616391835503" />
+    <state x="346" y="287" key="NewPhpFileDialog" timestamp="1616418164252">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="346" y="287" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1616418164252" />
+    <state x="168" y="164" key="run.anything.popup" timestamp="1616409458637">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="168" y="164" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1616409458637" />
+  </component>
+</project>

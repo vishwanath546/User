@@ -33,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Socket" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -61,7 +61,8 @@
       <workItem from="1601460360727" duration="662000" />
       <workItem from="1601533370640" duration="5857000" />
       <workItem from="1616389698174" duration="15131000" />
-      <workItem from="1616408449609" duration="10126000" />
+      <workItem from="1616408449609" duration="10719000" />
+      <workItem from="1616419577384" duration="2628000" />
     </task>
     <servers />
   </component>
@@ -85,10 +86,14 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="0" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728@0.0.1024.728" timestamp="1616391835503" />
-    <state x="346" y="287" key="NewPhpFileDialog" timestamp="1616418164252">
+    <state x="292" y="119" key="FileChooserDialogImpl" timestamp="1616573327635">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="346" y="287" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1616418164252" />
+    <state x="292" y="119" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1616573327635" />
+    <state x="346" y="287" key="NewPhpFileDialog" timestamp="1616570762312">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="346" y="287" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1616570762312" />
     <state x="168" y="164" key="run.anything.popup" timestamp="1616409458637">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
